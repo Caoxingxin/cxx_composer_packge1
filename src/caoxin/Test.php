@@ -1,7 +1,7 @@
 <?php
 namespace Caoxin;
 class Test{
-    function test(){
+    public function test(){
         echo 'success';
     }
 }

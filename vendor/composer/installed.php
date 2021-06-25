@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'l',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
-        'name' => 'cxx/test',
+        'reference' => '87e629a7709af2f484f4427f1101134ea84f8d56',
+        'name' => 'caoxin/test',
         'dev' => true,
     ),
     'versions' => array(
-        'cxx/test' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+        'caoxin/test' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'l',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '87e629a7709af2f484f4427f1101134ea84f8d56',
             'dev_requirement' => false,
         ),
     ),
