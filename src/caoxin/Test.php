@@ -1,5 +1,5 @@
 <?php
-namespace Cxx;
+namespace Caoxin;
 class Test{
     function test(){
         echo 'success';
