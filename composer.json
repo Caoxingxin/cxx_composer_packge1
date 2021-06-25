@@ -1,5 +1,5 @@
 {
-    "name": "cxx/test",
+    "name": "caoxin/test",
     "description": "this is my first composer package",
     "type": "l",
     "require": {
